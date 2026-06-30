@@ -74,7 +74,9 @@
   site: https://jingtianyan.github.io/publication/2026-06-07-mapf-planner-tradeoffs
   authors: [Jingtian Yan, Zhifei Li, William Kang, Stephen F. Smith, Jiaoyang Li]
   venue: ICAPS
+  pages: 435-439
   year: 2026
+  doi: 10.1609/icaps.v36i1.42860
   thumbnail: /files/jingtianyan/icaps26_design_tradeoff/icaps_design_smart.gif
   tags: [mapf, warehouse, execution]
   links:
@@ -90,14 +92,11 @@
   site: https://mwrp-cp3.github.io/  # project page
   authors: [Srikar Gouru, Ariel Felner, Jiaoyang Li]
   venue: ICAPS
-  volume: null
-  number: null
-  pages: null
+  pages: 95-103
   year: 2026
   thumbnail: /files/srikargouru/mwrp.gif  # Save to /files/[your-folder]/
   award: null
-  doi: null        # doi is shown in bibtex and used as the link to the publisher site when the publisher field is not defined
-  publisher: null  # link to the publisher; we don't need this if the publisher can be reached by https://doi.org/[doi]
+  doi: 10.1609/icaps.v36i1.42818        # doi is shown in bibtex and used as the link to the publisher site when the publisher field is not defined
   links:   # You can add additional links not listed below
     arXiv: https://arxiv.org/abs/2604.15610
     Code: https://github.com/srikarg89/MWRP-CP3
