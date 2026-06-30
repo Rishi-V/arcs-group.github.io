@@ -135,14 +135,12 @@
   authors: [Cheng Qian, Yulun Zhang, Varun Bhatt, Matthew C. Fontaine, Stefanos Nikolaidis, Jiaoyang Li]
   equal_contributions: [Cheng Qian, Yulun Zhang]
   venue: AAMAS
-  volume: null
-  number: null
-  pages: null
+  pages: 1049-1057
   year: 2026
   thumbnail: /files/yulunzhang/thumbnails/qd-mapf-bench.png  # Save to /files/[your-folder]/
   award: null
-  doi: null  # doi is shown in bibtex and used as the link to the publisher site when the publisher field is not defined
-  publisher: null  # link to the publisher; we don't need this if the publisher can be reached by https://doi.org/[doi] 
+  doi: 10.65109/UZVN6052  # doi is shown in bibtex and used as the link to the publisher site when the publisher field is not defined
+  publisher: https://dl.acm.org/doi/10.65109/UZVN6052  # link to the publisher; we don't need this if the publisher can be reached by https://doi.org/[doi]
   links: # You can add additional links not listed below 
     arXiv: https://arxiv.org/abs/2409.06888
     Code: https://github.com/AirTClick/QD-MAPPER
